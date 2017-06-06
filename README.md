@@ -4,6 +4,8 @@ Here is some information about the project.
 
 #This is a heading
 
+## Adding text to commit so the contributor so that it shows under the contributors
+
 ##This is a smaller heading 
 
 You can use the [editor on GitHub](https://github.com/pluralsight-demo-oscar/cuddly-octo-engine/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
