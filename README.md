@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to cuddly-octo-engine
+
+Here is some information about the project.
+
+#This is a heading
+
+##This is a smaller heading 
 
 You can use the [editor on GitHub](https://github.com/pluralsight-demo-oscar/cuddly-octo-engine/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
